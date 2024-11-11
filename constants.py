@@ -3,7 +3,7 @@
 """
 Euler's Shield Constants Module
 =============================
-
+314,000
 This module contains essential constants and mathematical formulas
 related to Euler's Shield and Pi Coin, a stable cryptocurrency.
 """
